@@ -1,7 +1,7 @@
 
 public class Hello {
 	/**
-	 * implement the application
+	 * improve implement the application 
 	 * @param args arguments
 	 */
 public static void main(String[] args){
